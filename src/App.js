@@ -11,7 +11,7 @@ function App() {
   
   const manejarClick = () =>{
    setNumClick( numClick + 1);
-  }
+  };
 
   const reiniciarContador = () =>{
    setNumClick(0);
